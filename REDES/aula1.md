@@ -6,7 +6,7 @@ modelos OSI/TCP              circuito x pacote, correção de erros/padronizaç�
 internet, ethernet, wifi     local x longa distância
 frame relay, atm
 
-                aplicação - 
+aplicação - 
 DNS, WEB, e-mail, FTP, TSL, P2P, cloud, IOT, streaming
 
 UDP - protocolo que não coloca nenhum atraso na rede (considerado rápido)
