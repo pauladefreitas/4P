@@ -1,4 +1,4 @@
-# Pontuação
+# Pontuação:
 
 1ª prova - 25pt - introdução - 
 início, exemplar, topologia, questões de redes
